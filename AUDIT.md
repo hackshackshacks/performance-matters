@@ -1,5 +1,5 @@
 # Performance Matters week 1 audit
-I performed all my tests using the 'Slow 3G' setting in the Google Chrome dev tools.
+I performed all my tests using the 'Slow 3G' setting in the Google Chrome dev tools. I have created a seperate branch for each feature.
 ## Minify code
 In order to reduce the size of the files I minified the CSS and Javascript.
 ### Results
