@@ -11,6 +11,9 @@
  * Special styles for presenting Bootstrap's documentation and code examples.
  */
 
+html {
+  font-family: 'Source Sans Pro', sans-serif;
+}
 
 /*
  * Scaffolding
