@@ -1,5 +1,5 @@
 # Performance Matters week 1 audit
-I performed all my tests using the 'Slow 3G' setting in the Google Chrome dev tools. I have created a seperate branch for each feature.
+I performed all my tests using the 'Slow 3G' setting in the Google Chrome dev tools. I have created a seperate branch for each feature. The data below is an average of 5 test results for each feature. 
 ## Minify code
 In order to reduce the size of the files I minified the CSS and Javascript.
 ### Results
@@ -59,3 +59,6 @@ Images total size 729kb (75,98s) -> 94,4kb (24,33s) -634,6kb (-51,65s)
 
 #### After
 ![Before minify](https://raw.githubusercontent.com/hackshackshacks/performance-matters/master/audit_images/network_after_imagemin.png)
+
+## Conclusion
+All features appear to have a positive effect on the app's speed. Further testing would have to point out the exact benefit as the sample size of 5 is pretty small.
